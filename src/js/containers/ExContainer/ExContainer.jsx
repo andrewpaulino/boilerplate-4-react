@@ -7,8 +7,12 @@ export default class Example extends React.Component {
 
     render() {
         return (
-            <div className="examplecontainer">
-                <h1> Testing Boiler Plate </h1> 
+            <div className="example">
+                <div className="container">
+                    <h1> Testing Boiler Plate </h1>
+                        <hr />
+                        <p> To add more submit a pull request </p>
+                </div>
             </div>
         )
     }
