@@ -1,7 +1,7 @@
 # boilerplate-4-react
 A simplified boiler plate for React.js
 
-###To Install 
+# To Install 
 ***
 1. `git clone https://github.com/andrewpaulino/boilerplate-4-react.git`
 2. `npm install`
