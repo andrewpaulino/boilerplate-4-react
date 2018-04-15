@@ -1,7 +1,7 @@
 {
-  "name": "react-boilerplate",
+  "name": "PetLog",
   "version": "1.0.0",
-  "description": "A boilerplate for React-Router/React-Redux/Webpack/Express",
+  "description": "No Desc",
   "main": "index.js",
   "scripts": {
     "build": "npm run less  && webpack -w ",
